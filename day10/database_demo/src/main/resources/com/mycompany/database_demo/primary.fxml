@@ -28,6 +28,6 @@
          </children>
       </FlowPane>
       <Button fx:id="login_btn" mnemonicParsing="false" onAction="#handleLogin" prefHeight="36.0" prefWidth="81.0" text="log in" />
-      <Button fx:id="reg_btn" mnemonicParsing="false" onAction="#handleRegister" prefHeight="27.0" prefWidth="101.0" text="refister" />
+      <Button fx:id="reg_btn" mnemonicParsing="false" onAction="#handleRegister" prefHeight="27.0" prefWidth="101.0" text="register" />
    </children>
 </VBox>
